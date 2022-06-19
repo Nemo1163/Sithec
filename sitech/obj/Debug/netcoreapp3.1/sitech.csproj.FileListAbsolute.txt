@@ -1,0 +1,204 @@
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.exe
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.deps.json
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.runtimeconfig.json
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.runtimeconfig.dev.json
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.pdb
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.csproj.AssemblyReference.cache
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.AssemblyInfoInputs.cache
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.AssemblyInfo.cs
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\staticwebassets\sitech.StaticWebAssets.Manifest.cache
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.RazorTargetAssemblyInfo.cache
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.csproj.CopyComplete
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.dll
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.pdb
+C:\Users\Nemo\Desktop\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.genruntimeconfig.cache
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.exe
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.deps.json
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.runtimeconfig.json
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.runtimeconfig.dev.json
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\sitech.pdb
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.csproj.AssemblyReference.cache
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.AssemblyInfoInputs.cache
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.AssemblyInfo.cs
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\staticwebassets\sitech.StaticWebAssets.Manifest.cache
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.RazorTargetAssemblyInfo.cache
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.csproj.CopyComplete
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.dll
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.pdb
+C:\Users\Nemo\Desktop\netappsln (1)\sitechsln\sitech\obj\Debug\netcoreapp3.1\sitech.genruntimeconfig.cache
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\sitech.exe
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\sitech.deps.json
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\sitech.runtimeconfig.json
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\sitech.runtimeconfig.dev.json
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\sitech.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\sitech.pdb
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.csproj.AssemblyReference.cache
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.AssemblyInfoInputs.cache
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.AssemblyInfo.cs
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\staticwebassets\sitech.StaticWebAssets.Manifest.cache
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.RazorTargetAssemblyInfo.cache
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.csproj.CopyComplete
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.dll
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.pdb
+C:\Users\Nemo\Desktop\Sithec\sitech\obj\Debug\netcoreapp3.1\sitech.genruntimeconfig.cache
